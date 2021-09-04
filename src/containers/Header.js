@@ -6,7 +6,7 @@ const Header = () => {
         <div className=" ui container center">
         <h1> Fake Shop </h1>
 
-        <h2>change</h2>
+        <h2>hello</h2>
         </div>
         </div>
     )
